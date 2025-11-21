@@ -1,0 +1,9 @@
+{
+  "prompt": "A soft meditation bell echoing in a calm temple",
+  "negative_prompt": "harsh noise, distortion",
+  "steps": 80,
+  "duration_s": 6.0,
+  "seed": 42,
+  "sampling_rate": 44100,
+  "generated_at": "2025-11-21T13:34:32.690866Z"
+}
